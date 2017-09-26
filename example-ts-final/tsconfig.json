@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "allowJs": true,
+        "checkJs": true,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "outDir": "dist"
+    },
+    "files": [
+        "src/app.js",
+        "src/randomGenerator.ts"
+    ]    
+}
